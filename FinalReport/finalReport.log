@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.13)  3 DEC 2021 23:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.13)  3 DEC 2021 23:55
 entering extended mode
-**./proposal.tex
-(proposal.tex
+**./finalReport.tex
+(finalReport.tex
 LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-08-27>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -294,8 +294,8 @@ File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count284
 \l__pdf_internal_box=\box56
 )
-(proposal.aux)
-\openout1 = `proposal.aux'.
+(finalReport.aux)
+\openout1 = `finalReport.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
 LaTeX Font Info:    ... okay on input line 47.
@@ -353,9 +353,9 @@ LaTeX Info: Redefining \ref on input line 47.
 LaTeX Info: Redefining \pageref on input line 47.
 LaTeX Info: Redefining \nameref on input line 47.
 
-(proposal.out) (proposal.out)
+(finalReport.out) (finalReport.out)
 \@outlinefile=\write3
-\openout3 = `proposal.out'.
+\openout3 = `finalReport.out'.
 
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 5
 1.
@@ -368,8 +368,8 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 <heatmap.png, id=69, 678.535pt x 644.4075pt>
 File: heatmap.png Graphic file (type png)
 <use heatmap.png>
-Package pdftex.def Info: heatmap.png  used on input line 75.
-(pdftex.def)             Requested size: 227.61346pt x 227.62073pt.
+Package pdftex.def Info: heatmap.png  used on input line 73.
+(pdftex.def)             Requested size: 256.07552pt x 256.08685pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -378,38 +378,38 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.103 
+l.101 
        <./heatmap.png>]
 <NN_structure.jpg, id=90, 192.72pt x 106.3975pt>
 File: NN_structure.jpg Graphic file (type jpg)
 <use NN_structure.jpg>
-Package pdftex.def Info: NN_structure.jpg  used on input line 107.
+Package pdftex.def Info: NN_structure.jpg  used on input line 105.
 (pdftex.def)             Requested size: 227.62227pt x 142.27155pt.
 <CNN_structure.png, id=91, 635.87563pt x 231.86626pt>
 File: CNN_structure.png Graphic file (type png)
 <use CNN_structure.png>
-Package pdftex.def Info: CNN_structure.png  used on input line 119.
+Package pdftex.def Info: CNN_structure.png  used on input line 117.
 (pdftex.def)             Requested size: 341.4466pt x 142.26608pt.
  [4pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.126 \subsection
+l.124 \subsection
                  {KNN Baseline}pdfTeX warning (ext4): destination with the same
  identifier (name{figure.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.126 \subsection
+l.124 \subsection
                  {KNN Baseline} <./NN_structure.jpg> <./CNN_structure.png>]
 <KNN_k_lc.png, id=100, 399.4925pt x 279.0425pt>
 File: KNN_k_lc.png Graphic file (type png)
 <use KNN_k_lc.png>
-Package pdftex.def Info: KNN_k_lc.png  used on input line 146.
+Package pdftex.def Info: KNN_k_lc.png  used on input line 144.
 (pdftex.def)             Requested size: 227.62164pt x 142.2672pt.
 <KNN_distance.png, id=101, 393.47pt x 279.0425pt>
 File: KNN_distance.png Graphic file (type png)
 <use KNN_distance.png>
-Package pdftex.def Info: KNN_distance.png  used on input line 154.
+Package pdftex.def Info: KNN_distance.png  used on input line 152.
 (pdftex.def)             Requested size: 227.61836pt x 142.2672pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -418,22 +418,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.158 
+l.156 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.158 
+l.156 
        <./KNN_k_lc.png>]
 <NBC_skewness_check.png, id=109, 1061.9675pt x 373.395pt>
 File: NBC_skewness_check.png Graphic file (type png)
 <use NBC_skewness_check.png>
-Package pdftex.def Info: NBC_skewness_check.png  used on input line 165.
+Package pdftex.def Info: NBC_skewness_check.png  used on input line 163.
 (pdftex.def)             Requested size: 341.44077pt x 142.26192pt.
 <NBC_lc.png, id=110, 387.4475pt x 279.0425pt>
 File: NBC_lc.png Graphic file (type png)
 <use NBC_lc.png>
-Package pdftex.def Info: NBC_lc.png  used on input line 173.
+Package pdftex.def Info: NBC_lc.png  used on input line 171.
 (pdftex.def)             Requested size: 227.62248pt x 142.2672pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -442,43 +442,43 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.177 
+l.175 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.177 
+l.175 
        <./KNN_distance.png> <./NBC_skewness_check.png>]
 <NN_lc.png, id=119, 393.72093pt x 239.39438pt>
 File: NN_lc.png Graphic file (type png)
 <use NN_lc.png>
-Package pdftex.def Info: NN_lc.png  used on input line 197.
+Package pdftex.def Info: NN_lc.png  used on input line 195.
 (pdftex.def)             Requested size: 227.61935pt x 142.26425pt.
  [7pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.205 
+l.203 
       pdfTeX warning (ext4): destination with the same identifier (name{table.2
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.205 
+l.203 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.205 
+l.203 
        <./NBC_lc.png> <./NN_lc.png>]
 <CNN_lc.png, id=130, 306.39468pt x 216.81pt>
 File: CNN_lc.png Graphic file (type png)
 <use CNN_lc.png>
-Package pdftex.def Info: CNN_lc.png  used on input line 231.
+Package pdftex.def Info: CNN_lc.png  used on input line 229.
 (pdftex.def)             Requested size: 227.62148pt x 142.27127pt.
 <CNN_loss.png, id=131, 306.39468pt x 220.57407pt>
 File: CNN_loss.png Graphic file (type png)
 <use CNN_loss.png>
-Package pdftex.def Info: CNN_loss.png  used on input line 241.
+Package pdftex.def Info: CNN_loss.png  used on input line 239.
 (pdftex.def)             Requested size: 227.62148pt x 142.27086pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -487,36 +487,36 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.245 
+l.243 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 9}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.245 
+l.243 
        <./CNN_lc.png>] [9pdfTeX warning (ext4): destination with the same ident
 ifier (name{figure.10}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.276 [
+l.274 [
        3] Li Shen. \& Laurie R. Margolies. (2019) Deep Learning to Improve B...
 pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.276 [
+l.274 [
        3] Li Shen. \& Laurie R. Margolies. (2019) Deep Learning to Improve B...
- <./CNN_loss.png>] [10] (proposal.aux)
-Package rerunfilecheck Info: File `proposal.out' has not changed.
+ <./CNN_loss.png>] [10] (finalReport.aux)
+Package rerunfilecheck Info: File `finalReport.out' has not changed.
 (rerunfilecheck)             Checksum: 59063CB72D7C65BD715D16E7EBBDCCAF;1903.
  ) 
 Here is how much of TeX's memory you used:
- 9316 strings out of 478927
- 134795 string characters out of 2862398
- 454536 words of memory out of 3000000
- 26996 multiletter control sequences out of 15000+600000
+ 9314 strings out of 478927
+ 134829 string characters out of 2862398
+ 454481 words of memory out of 3000000
+ 26994 multiletter control sequences out of 15000+600000
  417971 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,10n,75p,1319b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,10n,75p,1322b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
@@ -528,7 +528,7 @@ e1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/courie
 r/ucrr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Prog
 ram Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on proposal.pdf (10 pages, 732078 bytes).
+Output written on finalReport.pdf (10 pages, 732420 bytes).
 PDF statistics:
  216 PDF objects out of 1000 (max. 8388607)
  43 named destinations out of 1000 (max. 500000)
