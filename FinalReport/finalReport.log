@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.13)  3 DEC 2021 23:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.13)  4 DEC 2021 21:09
 entering extended mode
 **./finalReport.tex
 (finalReport.tex
@@ -284,7 +284,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@floatcapt=\box55
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 4
-7.
+6.
 
 (C:\Program Files\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -297,24 +297,24 @@ File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 (finalReport.aux)
 \openout1 = `finalReport.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
  (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count285
@@ -336,7 +336,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 47.
+Package hyperref Info: Link coloring OFF on input line 46.
 
 (C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -349,188 +349,181 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count291
 )
-LaTeX Info: Redefining \ref on input line 47.
-LaTeX Info: Redefining \pageref on input line 47.
-LaTeX Info: Redefining \nameref on input line 47.
+LaTeX Info: Redefining \ref on input line 46.
+LaTeX Info: Redefining \pageref on input line 46.
+LaTeX Info: Redefining \nameref on input line 46.
 
 (finalReport.out) (finalReport.out)
 \@outlinefile=\write3
 \openout3 = `finalReport.out'.
 
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 5
-1.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 4
+8.
 
 (C:\Program Files\MiKTeX\tex/latex/psnfss\ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ) [1
 
 {C:/Users/YJY/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-<heatmap.png, id=69, 678.535pt x 644.4075pt>
+<heatmap.png, id=75, 678.535pt x 644.4075pt>
 File: heatmap.png Graphic file (type png)
 <use heatmap.png>
-Package pdftex.def Info: heatmap.png  used on input line 73.
+Package pdftex.def Info: heatmap.png  used on input line 68.
 (pdftex.def)             Requested size: 256.07552pt x 256.08685pt.
+ [2]
+<NN_structure.jpg, id=89, 192.72pt x 106.3975pt>
+File: NN_structure.jpg Graphic file (type jpg)
+<use NN_structure.jpg>
+Package pdftex.def Info: NN_structure.jpg  used on input line 98.
+(pdftex.def)             Requested size: 227.62227pt x 142.27155pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2]
-[3pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
-has been already used, duplicate ignored
+ [3pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
+ has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.101 
+l.102 
        <./heatmap.png>]
-<NN_structure.jpg, id=90, 192.72pt x 106.3975pt>
-File: NN_structure.jpg Graphic file (type jpg)
-<use NN_structure.jpg>
-Package pdftex.def Info: NN_structure.jpg  used on input line 105.
-(pdftex.def)             Requested size: 227.62227pt x 142.27155pt.
-<CNN_structure.png, id=91, 635.87563pt x 231.86626pt>
+<CNN_structure.png, id=97, 635.87563pt x 231.86626pt>
 File: CNN_structure.png Graphic file (type png)
 <use CNN_structure.png>
-Package pdftex.def Info: CNN_structure.png  used on input line 117.
+Package pdftex.def Info: CNN_structure.png  used on input line 110.
 (pdftex.def)             Requested size: 341.4466pt x 142.26608pt.
  [4pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.124 \subsection
-                 {KNN Baseline}pdfTeX warning (ext4): destination with the same
- identifier (name{figure.3}) has been already used, duplicate ignored
+l.131 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.124 \subsection
-                 {KNN Baseline} <./NN_structure.jpg> <./CNN_structure.png>]
-<KNN_k_lc.png, id=100, 399.4925pt x 279.0425pt>
+l.131 
+       <./NN_structure.jpg> <./CNN_structure.png>]
+<KNN_k_lc.png, id=106, 399.4925pt x 279.0425pt>
 File: KNN_k_lc.png Graphic file (type png)
 <use KNN_k_lc.png>
-Package pdftex.def Info: KNN_k_lc.png  used on input line 144.
+Package pdftex.def Info: KNN_k_lc.png  used on input line 137.
 (pdftex.def)             Requested size: 227.62164pt x 142.2672pt.
-<KNN_distance.png, id=101, 393.47pt x 279.0425pt>
+<KNN_distance.png, id=107, 393.47pt x 279.0425pt>
 File: KNN_distance.png Graphic file (type png)
 <use KNN_distance.png>
-Package pdftex.def Info: KNN_distance.png  used on input line 152.
+Package pdftex.def Info: KNN_distance.png  used on input line 145.
 (pdftex.def)             Requested size: 227.61836pt x 142.2672pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [5pdfTeX warning (ext4): destination with the same identifier (name{table.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.156 
+l.152 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.156 
-       <./KNN_k_lc.png>]
-<NBC_skewness_check.png, id=109, 1061.9675pt x 373.395pt>
+l.152 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.152 
+       <./KNN_k_lc.png> <./KNN_distance.png>]
+<NBC_skewness_check.png, id=117, 1061.9675pt x 373.395pt>
 File: NBC_skewness_check.png Graphic file (type png)
 <use NBC_skewness_check.png>
-Package pdftex.def Info: NBC_skewness_check.png  used on input line 163.
+Package pdftex.def Info: NBC_skewness_check.png  used on input line 156.
 (pdftex.def)             Requested size: 341.44077pt x 142.26192pt.
-<NBC_lc.png, id=110, 387.4475pt x 279.0425pt>
+<NBC_lc.png, id=118, 387.4475pt x 279.0425pt>
 File: NBC_lc.png Graphic file (type png)
 <use NBC_lc.png>
-Package pdftex.def Info: NBC_lc.png  used on input line 171.
+Package pdftex.def Info: NBC_lc.png  used on input line 164.
 (pdftex.def)             Requested size: 227.62248pt x 142.2672pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
+ [6pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.175 
+l.184 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
-6}) has been already used, duplicate ignored
+7}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.175 
-       <./KNN_distance.png> <./NBC_skewness_check.png>]
-<NN_lc.png, id=119, 393.72093pt x 239.39438pt>
+l.184 
+       <./NBC_skewness_check.png> <./NBC_lc.png>]
+<NN_lc.png, id=127, 393.72093pt x 239.39438pt>
 File: NN_lc.png Graphic file (type png)
 <use NN_lc.png>
-Package pdftex.def Info: NN_lc.png  used on input line 195.
+Package pdftex.def Info: NN_lc.png  used on input line 188.
 (pdftex.def)             Requested size: 227.61935pt x 142.26425pt.
- [7pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
- has been already used, duplicate ignored
+<CNN_lc.png, id=128, 306.39468pt x 216.81pt>
+File: CNN_lc.png Graphic file (type png)
+<use CNN_lc.png>
+Package pdftex.def Info: CNN_lc.png  used on input line 222.
+(pdftex.def)             Requested size: 227.62148pt x 142.27127pt.
+
+Underfull \vbox (badness 6592) has occurred while \output is active []
+
+ [7pdfTeX warning (ext4): destination with the same identifier (name{table.2}) 
+has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.203 
-      pdfTeX warning (ext4): destination with the same identifier (name{table.2
-}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.203 
+l.226 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.203 
-       <./NBC_lc.png> <./NN_lc.png>]
-<CNN_lc.png, id=130, 306.39468pt x 216.81pt>
-File: CNN_lc.png Graphic file (type png)
-<use CNN_lc.png>
-Package pdftex.def Info: CNN_lc.png  used on input line 229.
-(pdftex.def)             Requested size: 227.62148pt x 142.27127pt.
-<CNN_loss.png, id=131, 306.39468pt x 220.57407pt>
+l.226 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.3
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.226 
+       <./NN_lc.png>]
+<CNN_loss.png, id=138, 306.39468pt x 220.57407pt>
 File: CNN_loss.png Graphic file (type png)
 <use CNN_loss.png>
-Package pdftex.def Info: CNN_loss.png  used on input line 239.
+Package pdftex.def Info: CNN_loss.png  used on input line 232.
 (pdftex.def)             Requested size: 227.62148pt x 142.27086pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8pdfTeX warning (ext4): destination with the same identifier (name{table.3}) 
-has been already used, duplicate ignored
+ [8pdfTeX warning (ext4): destination with the same identifier (name{figure.9})
+ has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.243 
+l.258 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
-9}) has been already used, duplicate ignored
+10}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.243 
-       <./CNN_lc.png>] [9pdfTeX warning (ext4): destination with the same ident
-ifier (name{figure.10}) has been already used, duplicate ignored
+l.258 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.4
+}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.274 [
-       3] Li Shen. \& Laurie R. Margolies. (2019) Deep Learning to Improve B...
-pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has
- been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.274 [
-       3] Li Shen. \& Laurie R. Margolies. (2019) Deep Learning to Improve B...
- <./CNN_loss.png>] [10] (finalReport.aux)
+l.258 
+       <./CNN_lc.png> <./CNN_loss.png>] [9] [10] (finalReport.aux)
 Package rerunfilecheck Info: File `finalReport.out' has not changed.
-(rerunfilecheck)             Checksum: 59063CB72D7C65BD715D16E7EBBDCCAF;1903.
+(rerunfilecheck)             Checksum: 2C1B60E9C92F346E19B42582B80E383C;2081.
  ) 
 Here is how much of TeX's memory you used:
- 9314 strings out of 478927
- 134829 string characters out of 2862398
- 454481 words of memory out of 3000000
- 26994 multiletter control sequences out of 15000+600000
- 417971 words of font info for 54 fonts, out of 8000000 for 9000
+ 9302 strings out of 478927
+ 134716 string characters out of 2862398
+ 453478 words of memory out of 3000000
+ 26988 multiletter control sequences out of 15000+600000
+ 415696 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,10n,75p,1322b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,9n,75p,1322b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10
 .pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Progr
 am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/courie
-r/ucrr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Prog
-ram Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/font
-s/type1/urw/times/utmri8a.pfb>
-Output written on finalReport.pdf (10 pages, 732420 bytes).
+TeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw
+/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:
+/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on finalReport.pdf (10 pages, 716078 bytes).
 PDF statistics:
- 216 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
- 163 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 213 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
+ 179 words of extra memory for PDF output out of 10000 (max. 10000000)
 

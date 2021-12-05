@@ -10,9 +10,8 @@
 
 \title{Breast Cancer Detection Using AI}
 
-
 \author{
-Ken Chen\thanks{} \\
+Ken Chen \\
 Department of Computer Science and Software Engineering\\
 Auburn University\\
 345 W Magnolia Ave, Auburn, AL 36849 \\
@@ -45,8 +44,6 @@ Auburn University\\
 %\nipsfinalcopy % Uncomment for camera-ready version
 
 \begin{document}
-
-
 \maketitle
 
 \begin{abstract}
@@ -56,18 +53,16 @@ Scientific evidences show that treatments can be more successful when identify b
 \section{Introduction}
 Breast Cancer's causes are multifactorial and one million women are newly diagnosed with breast cancer every year. Machine learning is a powerful tool and algorithms that facilitate prediction, pattern recognition and classification. In this project, we develop two algorithms of machine learning for breast cancer classification, Neural Network and Convolutional Neural Network. We also develop two baseline models for comparison purpose, K Nearest Neighbors and Naive Bayes Classifier, and they are widely used  as baseline in this area. The Wisconsin Breast Cancer Database provides an easy accessible and well organized database and we split it into train and test samples. Neural Network can classify both linear space and nonlinear space, and two layers Neural Network can have a good approximation to any function with different setting on activation function. Convolutional Neural Network can explore features in the database and learn internal relation between features. Then, it will generate more features to use in prediction. This self-learning capability makes Convolutional Neural Network as Deep learning category. The purpose of this project is studying and developing effective machine learning based model for cancer detection using binary classification data set. 
 
-
 \section{Literature Review}
 Support Vector Machine(SVM), Decision Tree(C4.5), Naive Bayes(NB) and k Nearest Neighbors (k-NN) on the Wisconsin Breast Cancer (original) dataset are conducted[1]. k Nearest Neighbors (k-NN) is used as baseline method. Naive Bayes(NB) classifier and k nearest neighbor(KNN) are applied for breast cancer classification[2]. More recently, deep learning methods have been researched to solve anomaly detection problems since they do not require explicit feature construction unlike previously methods[3].
 
 \section{Methods}
-
 First task is choosing a baseline algorithm. Based on our literature, KNN algorithm is most well studied model in literature. And it is one of the very basic machine learning algorithm. All other methods we used will be compared to our baseline algorithms. Our objective in this project is to develop a model that can outperform to our baseline. When choose our baseline methods, we need to keep one thing in mind. The linearity of the dataset is not the main focus in this project. So when we choose machine learning algorithm, we will focus on those algorithm that can handle both linear and nonlinear space. Although some machine learning algorithms provide variant version which can handle nonlinear space problem. For example, Support Vector Machine classifier and Perceptron classifier have variation by using kernel tricks version. And it first maps the problem space into a higher dimensional space. And hopefully, in this higher dimensional space, it is linear separable so that the algorithm can perform their job. Again, this study involves more aspect and we prefer to focus more on our objective. As a result, the algorithms in this project are K Nearest Neighbors, Naive Bayes Classifier, Neural Network, Convolutional Neural Network. 
 
 \subsection{Dataset}
 Wisconsin Breast Cancer (original) dataset will be used. Dataset was designed for binary classification. There are 699 instances and 10 attributes with missing values. All attributes are integer values. There are 31 features in this dataset. We have a high dimension problem. We will clean the data by delete the patient id and delete the missing values in our study. And it results in 569 observations after cleaning. Dataset is randomly split with ratio 0.2 between training and testing sample size. First, we preform a correlation check using Heatmap in figure 1 to have an idea about the relation among features. Then, as we mentioned before that the missing values are ignored. Link to our dataset is provided in Appendix. 
 
-\begin{figure}[H]
+\begin{figure}[ht]
 \begin{center}
 %\framebox[4.0in]{$\;$}
 \fbox{\includegraphics[width = 9cm, height = 9cm]{heatmap.png}}
@@ -82,8 +77,6 @@ have A and Z as training vectors in this bi-dimensional features space, we want 
 \begin{equation}
  d\left(p,q\right) = \sqrt {\sum _{i=1}^{n}  \left( q_{i} - p_{i}\right)^2 } 
 \end{equation}
-
-
 \begin{equation}
  d\left(p,q\right) = \sum _{i=1}^{n} \lvert \left( q_{i} - p_{i}\right) \rvert
 \end{equation}
@@ -261,8 +254,11 @@ Convolutional NN  & 0.956\\
 
 
 \section{Conclusion}
-We build 4 models to perform binary classification regarding on cancer cell detection. And they all perform good on accuracy, more than 0.9. Machine learning algorithms provide a new perspective and robust solution to our project. Neural Network is actually a robust and universal model to solve variety problems. Although KNN is used as baseline model in many problems, it doesn't mean it performs badly. It actually provides a good threshold in model building and research. And we conclude that machine learning has huge potentials in healthcare industry. Future study needs to be conduct in dataset collection, feature study and more complex deep learning algorithm. We need a fast and robust model which can perform a good detection on cancer cells in terms of accuracy. Moreover, we want a model to detect cancer cells at their early stage which means more possible to have a successful treatment. So cancer cells in the early stage are preferred in the dataset. 
-\subsubsection*{References}
+We build 4 models to perform binary classification regarding on cancer cell detection. And they all perform good on accuracy, more than 0.9. Machine learning algorithms provide a new perspective and robust solution to our project. Neural Network is actually a robust and universal model to solve variety problems. Although KNN is used as baseline model in many problems, it is a promising model to have a decent performance. It actually provides a good threshold in model building and research. And we conclude that machine learning has huge potentials in healthcare industry. Future study needs to be conduct in dataset collection, feature study and more complex deep learning algorithm. We need a fast and robust model which can perform a good detection on cancer cells in terms of accuracy. Moreover, future should focus on a system that detects cancer cells at their early stage which means more possibility in successful of medical treatments.
+
+
+\newpage
+\section{References}
 
 \small{
 
@@ -277,9 +273,13 @@ Cancer Detection on Screening Mammography. {\it Scientific Reports} volume 9, Ar
 [4] Charu C. Aggarwal. \& Alexander Hinneburg. \& Daniel A. Keim. (2001) On the Surprising Behavior of Distance Metrics in High Dimensional Space. {\it International Conference on Database Theory} ICDT 2001: Database Theory — ICDT 2001 pp 420-434.
 }
 
-\end{document}
 
 \section{Appendix}
-Code is submitted in the zip file and we also provide Github link to it.
-Code Link: https://github.com/jzy0040/COMP6600Project
-Dataset Link: https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29
+\small{
+Code is submitted in the zip file and we also provide Github link below.\\
+Github Link: https://github.com/jzy0040/COMP6600Project\\
+Dataset Link: https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29\\
+}
+\end{document}
+
+
