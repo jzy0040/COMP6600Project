@@ -1,0 +1,6 @@
+Machine Learning
+Cancer Detection
+KNN
+Naive Bayes
+Neural Network
+Convolutional Neural Network
